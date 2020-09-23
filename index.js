@@ -4,4 +4,4 @@ const selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers];
 function createFareMultiplier(num) {}
 const fareDoubler = function (fare) {};
 const fareTripler = function (fare) {};
-function 
+function selectDifferentDrivers(driversArray, driversFunction) {}
